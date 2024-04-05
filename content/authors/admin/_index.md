@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 方昌瑞
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Fang  Chang Rui
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Changrui
+last_name: Fang
 
 # Status emoji
 status:
